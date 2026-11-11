@@ -1,84 +1,37 @@
-
-<!-- > <div align="center">
-  <a href="https://github.com">
-    <img src="images/logo.svg" alt="Logo" width="160" height="80">
-  </a> -->
-
-  <h1 align="center">
-    C# and Software Development  - University Positivo
-  </h1>
-
-</div>
-
-<!--  <h3 align="center">
-
-
-</h3>  -->
-
----
-
-## 📝 About:
-
-This is my repository used for college projects. **Subject**: C# and Software Development
-
-
----
-
-## 💻 Languages and 🛠 Tools:
-
+<h1 align="center">Aula C# — Coursework & Mini-projects</h1>
 
 <p align="center">
-   <a>
-      <img src="svg/c--4.svg" alt="C#" width="30" height="30"/>
-   </a>
-   <a href="https://angular.io">
-      <img src="svg/angular-icon-1.svg" alt="Angular" width="30" height="30"/>
-   </a> 
-   <a href="https://dotnet.microsoft.com/en-us/download">
-      <img src="svg/dot-net-core-7.svg" alt="DotNet" width="30" height="30"/>
-   </a> 
-   <a href="https://git-scm.com/doc/">
-      <img src="svg/git.svg" alt="git" width="30" height="30"/>
-   </a>
-   <a href="https://github.com/">
-      <img src="svg/github.svg" alt="Github" width="30" height="30"/>
-   </a> 
+  C# / .NET coursework: object-oriented programming fundamentals, console projects and
+  small full-stack samples (a .NET API with an Angular frontend for a payroll domain).
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular">
+</p>
 
-## 🚧 Projects in this repository:
-<ul>
-  <li>
-    *
-  </li>
- </ul>
-<!-- ---
+## 📝 About
+A study repository grouping several C# exercises and sample projects built during classes.
 
-<h1>🤖 Preview </h1>
-<img src=" -->
+## ✨ Highlights
+- **OrientacaoObjetos / PrimeiroProjeto / Aula1** — OOP fundamentals and first projects.
+- **API / API_Exemplo / API_Folhas** — .NET Web API samples.
+- **FRONT_Folhas** — Angular frontend for the payroll ("Folha de Pagamento") API.
+- **FolhaPagamento / ListaExercicio** — domain exercises.
 
-<!-- ## Como Baixar
+## 🚀 How to run
+- **.NET projects:** `cd <folder> && dotnet run`.
+- **Angular (`FRONT_Folhas`):** `npm install && ng serve` → http://localhost:4200.
 
-```bash
-
-# Instruções
-
-$ Comandos
-
-
-``` -->
+## 📁 Structure
+```
+AulaCsharp/
+├── OrientacaoObjetos/ , PrimeiroProjeto/ , Aula1/   # OOP basics
+├── API/ , API_Exemplo/ , API_Folhas/               # .NET Web API samples
+├── FRONT_Folhas/                                    # Angular frontend
+└── FolhaPagamento/ , ListaExercicio/               # exercises
+```
 
 ---
-
-<h3 align="center">
-
-  Lucas Soares de Lima
-<br/>
-
-  <a align="center">
-   
-   [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lucasoalima/)
-&nbsp;
-  [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/lucasoalima)
-  </a>
-</h3>
+<p align="center"><a href="https://www.linkedin.com/in/lucasoalima/">LinkedIn</a> &middot; <a href="https://github.com/lucasoalima">GitHub</a></p>
